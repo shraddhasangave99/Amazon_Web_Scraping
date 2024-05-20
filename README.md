@@ -1,2 +1,17 @@
-# Amazon_Web_Scraping
-Web scraping Amazon involves using automated tools such as Python to extract data from the Amazon website. This typically includes product details such as titles, prices, descriptions, reviews, and ratings. Web scraping Amazon can be useful for market research, price comparison, and competitive analysis.
+# Amazon Web Scraping using Python
+Web scraping Amazon involves using automated tools such as Python to extract data from the Amazon website. This typically includes product details such as titles, prices, descriptions, reviews, and ratings. Web scraping can be highly valuable for various applications like market research, price comparison, data analysis and competitive analysis.
+
+## Introduction
+
+🔸Web Scraping is a method of extracting large amounts of data from websites where the data is unstructured (in HTML format) and converting it into a structured format (such as CSV, JSON, or a database).
+
+🔸Instead of manually copying information, web scraping allows us to programmatically collect and organize data. 
+
+🔸Python is one of the most popular languages for web scraping due to its simplicity and the availability of powerful libraries that facilitate the process.
+
+The website used for web scraping is:-[Link1](https://www.amazon.com/Beats-Studio-Buds-Cancelling-Earbuds-AppleCare/dp/B0BH7QTZGN?ref_=Oct_DLandingS_D_35f80eae_1)
+
+[Link2](https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ)
+
+![web-scraping 1](https://github.com/shraddhasangave99/Amazon_Web_Scraping/assets/153710836/a20f778b-6849-409c-aeaf-94d3db4ec443)
+
