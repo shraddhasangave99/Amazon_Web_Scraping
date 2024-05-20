@@ -11,7 +11,9 @@ Web scraping Amazon involves using automated tools such as Python to extract dat
 
 The website used for web scraping is:- 1. [Beats Studio Buds with AppleCare+ for Headphones](https://www.amazon.com/Beats-Studio-Buds-Cancelling-Earbuds-AppleCare/dp/B0BH7QTZGN?ref_=Oct_DLandingS_D_35f80eae_1)
 
-2. [Data Analyst T-Shirt](https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ)
+q{
+  margin-left:10px;
+} 2. [Data Analyst T-Shirt](https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ)
 
 ![web-scraping 1](https://github.com/shraddhasangave99/Amazon_Web_Scraping/assets/153710836/a20f778b-6849-409c-aeaf-94d3db4ec443)
 
