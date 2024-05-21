@@ -16,3 +16,12 @@ The website used for web scraping is:-
 
 ![web-scraping 1](https://github.com/shraddhasangave99/Amazon_Web_Scraping/assets/153710836/a20f778b-6849-409c-aeaf-94d3db4ec443)
 
+## Details of Project
+
+▪️ HTTP Requests: The process begins with sending HTTP requests to the target website’s server to fetch the HTML content of the web pages.
+
+▪️ HTML Parsing: Extracted meaningful data from the HTML content involves parsing the HTML structure using libraries such as BeautifulSoup.
+
+▪️ Data Storage: The extracted data is stored in a structured format like CSV, JSON, or directly into databases for further analysis.
+
+
