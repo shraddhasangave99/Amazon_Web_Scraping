@@ -22,6 +22,6 @@ The website used for web scraping is:-
 
 ▪️ HTML Parsing: Extracted meaningful data from the HTML content involves parsing the HTML structure using libraries such as BeautifulSoup.
 
-▪️ Data Storage: The extracted data is stored in a structured format like CSV, JSON, or directly into databases for further analysis.
+▪️ Data Storage: The extracted data contains title, price, reviews and time which is stored in a structured format like CSV for further analysis.
 
 
